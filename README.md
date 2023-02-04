@@ -43,8 +43,6 @@ This project includes the following features:
 - Reactive Forms for handling user inputs
 - Routing for navigation between pages
 - Data binding for displaying and updating data
-- Services for sharing data between components
-- Observables for asynchronous data handling
 
 ## Built With
 - [Angular CLI 15.1.3](https://cli.angular.io) - The Angular CLI version used
